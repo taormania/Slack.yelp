@@ -1,0 +1,12 @@
+{
+  "default_search_location":"Default Address",
+  "default_search_term":"lunch",
+  "default_search_limit":10,
+  "default_sort":0,
+  "sort_by_distance":1,
+  "sort_by_highest":2,
+  "consumer_key":"consumer_key",
+  "consumer_secret":"consumer_secret",
+  "token":"token",
+  "token_secret":"token_secret"
+}

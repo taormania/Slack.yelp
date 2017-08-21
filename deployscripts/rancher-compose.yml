@@ -1,0 +1,5 @@
+API:
+  scale: 1
+SlackLB:
+  scale: 1
+  load_balancer_config: {}
